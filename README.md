@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Walter Barrios
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Nodejs
-- 💞️ I’m looking to collaborate on challenging projects
+- 👋 Hi, I’m Walter Barrios.
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, ES6, React, Redux, NodeJS, Express, MySql, MariaDB, Postresql, Sequelize.
+- 💞️ I’m looking to collaborate on challenging projects.
 - 📫 How to reach me: walterbarrios@protonmail.com
 
 <!---
